@@ -67,7 +67,7 @@ The [median][median] for a [Laplace][laplace-distribution] random variable with 
 ## Usage
 
 ```javascript
-import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-median@deno/mod.js';
+import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-median@v0.1.0-deno/mod.js';
 ```
 
 #### median( mu, b )
@@ -127,7 +127,7 @@ y = median( 0.0, -1.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-median@deno/mod.js';
+import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-median@v0.1.0-deno/mod.js';
 
 var mu;
 var b;
