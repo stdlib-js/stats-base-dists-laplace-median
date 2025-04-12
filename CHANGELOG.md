@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-06)
+## Unreleased (2025-04-12)
 
 <section class="features">
 
@@ -34,6 +34,8 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`c7d443f`](https://github.com/stdlib-js/stdlib/commit/c7d443f50e2ec4b003d03654287470674ab22758) - **chore:** clean-up _(by Athan Reines)_
+-   [`7be4b47`](https://github.com/stdlib-js/stdlib/commit/7be4b4780d973679eac36b2b4cf970af3513f022) - **chore:** clean-up _(by Athan Reines)_
 -   [`37149a9`](https://github.com/stdlib-js/stdlib/commit/37149a9e5d2b01c61bb6d6f183fefc8c9f19c516) - **feat:** add C implementation for `stats/base/dists/laplace/median` [(#3997)](https://github.com/stdlib-js/stdlib/pull/3997) _(by Divyansh Seth, Philipp Burckhardt, stdlib-bot)_
 -   [`e5238bb`](https://github.com/stdlib-js/stdlib/commit/e5238bb96b7138d346ea0db8b535aec64c8a856c) - **bench:** refactor random number generation in `stats/base/dists/laplace` [(#5270)](https://github.com/stdlib-js/stdlib/pull/5270) _(by GK Bishnoi)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
@@ -48,8 +50,9 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Divyansh Seth
 -   GK Bishnoi
 -   Philipp Burckhardt

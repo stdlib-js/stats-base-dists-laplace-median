@@ -205,7 +205,7 @@ The function accepts the following arguments:
 -   **b**: `[in] double` scale parameter.
 
 ```c
-double stdlib_base_dists_laplace_median( const double x, const double a, const double b );
+double stdlib_base_dists_laplace_median( const double mu, const double b );
 ```
 
 </section>
@@ -252,6 +252,12 @@ int main( void ) {
 ```
 
 </section>
+
+<!-- /.examples -->
+
+</section>
+
+<!-- /.c -->
 
 <!-- Section to include cited references. If references are included, add a horizontal rule *before* the section. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
